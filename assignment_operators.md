@@ -4,12 +4,12 @@
  
  ### Core Assignment Operators:
 
-    * = — Simple assignment (the main operator)
-    * += — Addition assignment
-    * -= — Subtraction assignment
-    * *= — Multiplication assignment
-    * /= — Division assignment
-    * %= — Remainder (modulo) assignment
+    = — Simple assignment (the main operator)
+    += — Addition assignment
+    -= — Subtraction assignment
+    *= — Multiplication assignment
+    /= — Division assignment
+    %= — Remainder (modulo) assignment
 
 #### Example using only the core assignment operators:
 
@@ -18,5 +18,5 @@
     a -= 2;  // a is now 13
     a *= 2;  // a is now 26
     a /= 4;  // a is now 6.5
-    a %= 3;  // a is now 0.5```
+    a %= 3;  // a is now 0.5
 
